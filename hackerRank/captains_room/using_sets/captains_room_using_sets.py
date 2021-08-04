@@ -35,3 +35,4 @@ if __name__ == "__main__":
 # visited = 1, 2, 3
 # rooms_appeared_more_than_once = 1, 3
 # result should be 2
+
